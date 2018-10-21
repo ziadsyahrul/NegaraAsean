@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Negara Asean</string>
+    <string-array name="negara_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>Filiphina</item>
+        <item>Singapura</item>
+        <item>Brunei Darussalam</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+    </string-array>
+
+    <string-array name="detail_negara">
+        <item>Ibukota  : Jakarta
+Luas Wilayah : 1.904.569 km2
+Jumlah Penduduk : 260.580.739 jiwa (estimasi Juli 2017)
+Bahasa : Indonesia
+Mata Uang : Rupiah (IDR)
+Hari Kemerdekaan : 17 Agustus 1945
+Lagu Nasional : Indonesia Raya
+Tanggal Bergabung dengan ASEAN : 8 Agustus 1967 (negara pendiri)</item>
+        <item>Ibukota : Kuala Lumpur
+Luas Wilayah  : 329.847 km2
+Jumlah Penduduk : 31.381.992 jiwa (estimasi Juli 2017)
+Bahasa : Melayu
+Mata Uang : Ringgit (MYR)
+Hari Kemerdekaan : 31 Agustus 1957 (dari Inggris)
+Lagu Nasional : Negaraku
+Tanggal Bergabung dengan ASEAN : 8 Agustus 1967 (negara pendiri)</item>
+        <item>Ibukota  : Bangkok
+Luas Wilayah : 513.120 km2
+Jumlah Penduduk  : 68.414.135 jiwa (estimasi Juli 2017)
+Bahasa  : Thai
+Mata Uang : Baht (THB)
+Hari Kemerdekaan : – (tidak pernah dijajah oleh Negara lain)
+Lagu Nasional : Phleng Chat Thai (National Anthem of Thailand)
+Tanggal Bergabung dengan ASEAN : 8 Agustus 1967 (negara pendiri)</item>
+        <item>Ibukota  : Manila
+Luas Wilayah  : 300.000 km2
+Jumlah Penduduk : 104.256.076 jiwa (estimasi Juli 2017)
+Bahasa : Filipino (Tagalog) dan Inggris
+Mata Uang : Peso (PHP)
+Hari Kemerdekaan : 12 Juni 1898 (dari Spanyol)
+Lagu Nasional : Lupang Hinirang (Chosen Land)
+Tanggal Bergabung dengan ASEAN : 8 Agustus 1967 (negara pendiri)</item>
+        <item>Ibukota  : Singapura
+Luas Wilayah : 697 km2
+Jumlah Penduduk  : 5.888.926 jiwa (estimasi Juli 2017)
+Bahasa  : Inggris, Melayu, Mandarin dan Tamil
+Mata Uang : Dolar Singapura (SGD)
+Hari Kemerdekaan : 9 Agustus 1965 (dari Federasi Malaysia)
+Lagu Nasional : Majulah Singapura
+Tanggal Bergabung dengan ASEAN : 8 Agustus 1967 (negara pendiri)</item>
+        <item>Ibukota  : Bandar Seri Begawan
+Luas Wilayah : 5.765 km2
+Jumlah Penduduk : 443.593 jiwa (estimasi Juli 2017)
+Bahasa  Resmi  : Melayu
+Mata Uang : Dolar Brunei (BND)
+Hari Kemerdekaan : 1 Januari 1984 (dari Inggris)
+Lagu Nasional : Allah Peliharakan Sultan
+Tanggal Bergabung dengan ASEAN : 7 Januari 1984</item>
+        <item>Ibukota : Hanoi
+Luas Wilayah : 331.210 km2
+Jumlah Penduduk  : 96.160.163 jiwa (estimasi Juli 2017)
+Bahasa  Resmi : Vietnam
+Mata Uang   : Dong (VND)
+Hari Kemerdekaan  : 2 September 1945 (dari Prancis)
+Lagu Nasional : Tien quan ca (The Song of the Marching Troops)
+Tanggal Bergabung dengan ASEAN : 28 Juli 1995</item>
+        <item>Ibukota  : Vientiane
+Luas Wilayah  : 236.800 km2
+Jumlah Penduduk : 7.126.706 jiwa (estimasi Juli 2017)
+Bahasa  Resmi : Lao
+Mata Uang : Kip Laos (LAK)
+Hari Kemerdekaan : 19 Juli 1949 (dari Prancis)
+Lagu Nasional : Pheng Xat Lao (Hymn of the Lao People)
+Tanggal Bergabung dengan ASEAN : 23 Juli 1997</item>
+        <item>Ibukota : Naypyidaw
+Luas Wilayah : 676.578 km2
+Jumlah Penduduk  : 55.123.814 jiwa (estimasi Juli 2017)
+Bahasa  Resmi : Myanmar
+Mata Uang  : Kyat Myanmar (MMK)
+Hari Kemerdekaan : 4 Januari 1948 (dari Inggris)
+Lagu Nasional  : Kaba Ma Kyei (Till the End of the World, Myanmar)
+Tanggal Bergabung dengan ASEAN : 23 Juli 1997</item>
+        <item>Ibukota : Phnom Penh
+Luas Wilayah : 181.035 km2
+Jumlah Penduduk  : 16.204.486 jiwa (estimasi Juli 2017)
+Bahasa  Resmi  : Khmer
+Mata Uang : Riel Kamboja (KHR)
+Hari Kemerdekaan : 9 Nopember 1953 (dari Prancis)
+Lagu Nasional : Nokoreach (Royal Kingdom)
+Tanggal Bergabung dengan ASEAN : 16 Desember 1998</item>
+    </string-array>
+</resources>
